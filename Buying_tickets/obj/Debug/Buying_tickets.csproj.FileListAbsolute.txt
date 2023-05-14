@@ -1,0 +1,11 @@
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Buying_Tickets\Buying_tickets\bin\Debug\Buying_tickets.exe.config
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Buying_Tickets\Buying_tickets\bin\Debug\Buying_tickets.exe
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Buying_Tickets\Buying_tickets\bin\Debug\Buying_tickets.pdb
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Buying_Tickets\Buying_tickets\obj\Debug\Buying_tickets.csproj.AssemblyReference.cache
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Buying_Tickets\Buying_tickets\obj\Debug\Buying_tickets.csproj.SuggestedBindingRedirects.cache
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Buying_Tickets\Buying_tickets\obj\Debug\Buying_tickets.FMain.resources
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Buying_Tickets\Buying_tickets\obj\Debug\Buying_tickets.Properties.Resources.resources
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Buying_Tickets\Buying_tickets\obj\Debug\Buying_tickets.csproj.GenerateResource.cache
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Buying_Tickets\Buying_tickets\obj\Debug\Buying_tickets.csproj.CoreCompileInputs.cache
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Buying_Tickets\Buying_tickets\obj\Debug\Buying_tickets.exe
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Buying_Tickets\Buying_tickets\obj\Debug\Buying_tickets.pdb
